@@ -32,7 +32,7 @@ public class NVJOBUI : MonoBehaviour
     {
         //---------------------------------
 
-        Application.OpenURL("https://nvjob.github.io/alpha-flashing-text.html");
+        Application.OpenURL("https://nvjob.github.io/unity/alpha-flashing-text.html");
 
         //---------------------------------
     }
