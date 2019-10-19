@@ -5,11 +5,11 @@ The script makes a smooth change in the alpha channel values.
 
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/alpha%20flashing%20text%202/20/pic/3.gif)
 
-![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/alpha%20flashing%20text%202/20/pic/0.jpg)
-
 ### Prerequisites
 
 To work on the project, you will need a Unity version of at least 2019.1.8 (64-bit).
+
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/alpha%20flashing%20text%202/20/pic/0.jpg)
 
 -------------------------------------------------------------------
 
