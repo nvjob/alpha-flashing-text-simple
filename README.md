@@ -3,6 +3,8 @@
 Alpha flashing text. Smoothly flashing text. A simple script. Unity.<br>
 The script makes a smooth change in the alpha channel values.
 
+![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/alpha%20flashing%20text%202/20/pic/3.gif)
+
 ![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/alpha%20flashing%20text%202/20/pic/0.jpg)
 
 ### Prerequisites
