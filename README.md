@@ -1,10 +1,14 @@
-# Alpha Flashing Text 2.0
-#### [nvjob.github.io/unity/alpha-flashing-text](https://nvjob.github.io/unity/alpha-flashing-text)
+# Alpha Flashing Text 2.3
+#### Full instructions - [nvjob.github.io/unity/alpha-flashing-text](https://nvjob.github.io/unity/alpha-flashing-text)
 
-![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/alpha%20flashing%20text%202/20/pic/1.jpg)
+![GitHub Logo](https://nvjob.github.io/repo/unity%20assets/alpha%20flashing%20text%202/pic/1.jpg)
 
-Alpha flashing text. Smoothly flashing text. A simple script.<br>
-The script makes a smooth change in the alpha channel values.<br>
+This is a small set for UI effects.
+
+The asset includes two shaders, one shader for text, the second for sprites.<br>
+Shaders allow you to get various effects, not just a smooth change in transparency (see examples).
+
+The asset includes a script that changes the transparency of the text.<br>
 You can change the alpha channel for several texts at once by setting different parameters.
 
 -------------------------------------------------------------------
@@ -13,13 +17,7 @@ You can change the alpha channel for several texts at once by setting different 
 To work on the project, you will need a Unity version of at least 2019.1.8 (64-bit).
 
 ### Information
-The script uses a channel alpha limit from 0 to 1. If you set Max Alpha to 1.2 (Example 2), then after a value of 1, there will be a delay, this can also be used to achieve the desired artistic effect.
-
-![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/alpha%20flashing%20text%202/20/pic/2.jpg)
-
--------------------------------------------------------------------
-
-![GitHub Logo](https://raw.githubusercontent.com/nvjob/nvjob.github.io/master/repo/unity%20assets/alpha%20flashing%20text%202/20/pic/3.gif)
+There are two examples in the asset, for understanding the operation and settings.
 
 -------------------------------------------------------------------
 
