@@ -19,6 +19,13 @@ To work on the project, you will need a Unity version of at least 2019.1.8 (64-b
 ### Information
 There are two examples in the asset, for understanding the operation and settings.
 
+<strong>Features:</strong>
+- Shader for text.<br>
+- Shader for sprites.<br>
+- A script for a large number of texts with different settings.<br>
+- Settings for customizing effects.<br>
+- Good performance.
+
 -------------------------------------------------------------------
 
 **Authors:** #NVJOB Nicholas Veselov - [nvjob.github.io](https://nvjob.github.io)
