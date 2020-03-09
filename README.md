@@ -30,6 +30,7 @@ There are two examples in the asset, for understanding the operation and setting
 
 **Patrons:** [nvjob.github.io/patrons](https://nvjob.github.io/patrons)<br>
 *You can become one of the patrons, or make a sponsorship donation.*
+
 -------------------------------------------------------------------
 
 **Authors:** #NVJOB Nicholas Veselov - [nvjob.github.io](https://nvjob.github.io)
