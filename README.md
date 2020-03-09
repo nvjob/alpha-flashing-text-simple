@@ -34,4 +34,4 @@ There are two examples in the asset, for understanding the operation and setting
 
 **Support:** [nvjob.github.io/support](https://nvjob.github.io/support)
 
-**You can become one of the patrons, or make a sponsorship donation:** [nvjob.github.io/patrons](https://nvjob.github.io/patrons)
+**[You can become one of the patrons, or make a sponsorship donation.](https://nvjob.github.io/patrons)**
