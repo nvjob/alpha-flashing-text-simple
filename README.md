@@ -1,4 +1,4 @@
-# Alpha Flashing Text 2.3
+# Alpha Flashing UI 2.3
 #### Full instructions - [nvjob.github.io/unity/alpha-flashing-text](https://nvjob.github.io/unity/alpha-flashing-text)
 
 ![GitHub Logo](https://nvjob.github.io/repo/unity%20assets/alpha%20flashing%20text%202/pic/1.jpg)
