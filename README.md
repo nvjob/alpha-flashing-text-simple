@@ -34,4 +34,4 @@ There are two examples in the asset, for understanding the operation and setting
 
 **Support:** [nvjob.github.io/support](https://nvjob.github.io/support)
 
-**Patrons:** https://nvjob.github.io/patrons
+**Patrons:** [nvjob.github.io/patrons](https://nvjob.github.io/patrons)
