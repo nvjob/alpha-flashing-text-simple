@@ -33,3 +33,5 @@ There are two examples in the asset, for understanding the operation and setting
 **License:** MIT License. Clarification of licenses - [nvjob.github.io/mit-license](https://nvjob.github.io/mit-license)
 
 **Support:** [nvjob.github.io/support](https://nvjob.github.io/support)
+
+**Patrons:** https://nvjob.github.io/patrons
