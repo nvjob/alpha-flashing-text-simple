@@ -25,7 +25,7 @@ _TintOneOn("Tint 1 On", int) = 1
 [Header(Blink)][Space(5)]
 _SpeedCC("Blink Color rate", float) = 1.0
 _Speed("Blink rate", float) = 1.0
-_VectorValue("Brightness Vector Value", Vector) = (0,0,0,0.2)
+_VectorValue("Alpha Vector Value", Vector) = (0,0,0,0.2)
 [Space(5)]
 [Toggle(UNSCALED_TIME_ON)]
 _UnscaledTime("Unscaled Time On", int) = 0

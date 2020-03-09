@@ -20,7 +20,7 @@ Properties{
 [PerRendererData]_MainTex("Font Texture", 2D) = "white" {}
 [Header(Blink)][Space(5)]
 _Speed("Blink rate", float) = 1.0
-_VectorValue("Brightness Vector Value", Vector) = (1, 1, 0.8, 0.2)
+_VectorValue("Alpha Vector Value", Vector) = (1, 1, 0.8, 0.2)
 [Space(5)]
 [Toggle(UNSCALED_TIME_ON)]
 _UnscaledTime("Unscaled Time On", int) = 0
